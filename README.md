@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ... html/css help
 - 🤔 I’m looking for help with ... pizza
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... you dont!
+- 📫 How to reach me: ... https://nevarez.dev
 - 😄 Pronouns: ...he
 - ⚡ Fun fact: ... I like cyber security
 ```
