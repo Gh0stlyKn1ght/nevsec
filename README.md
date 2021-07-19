@@ -3,6 +3,18 @@
 ![hacktheplanet](/hacktheplanet.gif)
 
 
+```
+- 🔭 I’m currently working on ...My Bachelors Degree in Cyber Security
+- 🌱 I’m currently learning ... Javascript
+- 👯 I’m looking to collaborate on ... html/css help
+- 🤔 I’m looking for help with ... pizza
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... you dont!
+- 😄 Pronouns: ...he
+- ⚡ Fun fact: ... I like cyber security
+```
+
+
 
 
 <!--
