@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![hacktheplanet](/readmeimages/blob/main/hacktheplanet.gif)
+![hacktheplanet](infosecninja/hacktheplanet.gif)
 
 
 
