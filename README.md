@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
 ![hacktheplanet](/hacktheplanet.gif)
+  </p>
 
 
 ```
