@@ -2,7 +2,7 @@
 
   ![hacktheplanet](/hacktheplanet.gif)
 
-
+ <script src="https://tryhackme.com/badge/227754"></script>
 
 ```
 - 🔭 I’m currently working on ...My Bachelors Degree in Cyber Security
