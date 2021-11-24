@@ -15,6 +15,8 @@
 - ⚡ Fun fact: ... I like cyber security
 ```
 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/lordnikon.png" alt="TryHackMe">
+
 
 
 
