@@ -5,14 +5,14 @@
 
 
 ```
-- 🔭 I’m currently working on ...My Bachelors Degree in Cyber Security
-- 🌱 I’m currently learning ... Javascript
-- 👯 I’m looking to collaborate on ... html/css help
-- 🤔 I’m looking for help with ... pizza
+- 🔭 I’m currently working on ...My Bachelors Degree in Cyber Security | Graduation date: Jan 29th, 2022 🎓🎓
+- 🌱 I’m currently learning ... too many things to list
+- 👯 I’m looking to collaborate on ... anything security related
+- 🤔 I’m looking for help with ... career guidance
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... https://nevarez.dev
-- 😄 Pronouns: ...he
-- ⚡ Fun fact: ... I like cyber security
+- 📫 How to reach me: ... LinkedIn
+- 😄 Pronouns: ...he/him
+- ⚡ Fun fact: ... I'm a Swiss Army knife
 ```
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/lordnikon.png" alt="TryHackMe"/>
