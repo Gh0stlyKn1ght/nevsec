@@ -1,5 +1,14 @@
 Hi 👋 My name is John Nevarez
-=============================Cyber Security Practiction--------------------------Bachelors in Cyber Security 🎓 | linktr.ee/nevsec | Pentester | Security Researcher Talks about #informationsecurity and #cybersecurity* 🌍  I'm based in las vegas* 🖥️  See my portfolio at [My Documentation Page](http://nevsec.dev)* 🧠  I'm learning Cyber Security Skills* 🤝  I'm open to collaborating on anything security related* ⚡  Graduate with a Bachelors in Cyber Security, starting my MBA in the Fall of 2022.
+=============================
+Cyber Security Practiction
+--------------------------
+Bachelors in Cyber Security 🎓 | linktr.ee/nevsec | Pentester | Security Researcher 
+Talks about #informationsecurity and #cybersecurity* 
+🌍  I'm based in las vegas* 
+🖥️  See my portfolio at [My Documentation Page](http://nevsec.dev)* 
+🧠  I'm learning Cyber Security Skills* 
+🤝  I'm open to collaborating on anything security related* 
+⚡  Graduate with a Bachelors in Cyber Security, starting my MBA in the Fall of 2022.
 
 ### Skills
 
