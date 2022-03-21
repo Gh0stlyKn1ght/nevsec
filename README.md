@@ -1,7 +1,7 @@
 Hi 👋 My name is John Nevarez
 =============================
 
-Cyber Security Practiction
+Cyber Security Practitioner
 --------------------------
 
 Bachelors in Cyber Security 🎓 | linktr.ee/nevsec | Pentester | Security Researcher Talks about #informationsecurity and #cybersecurity
