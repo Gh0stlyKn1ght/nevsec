@@ -1,22 +1,22 @@
 Hi 👋 My name is John Nevarez
 =============================
+
 Cyber Security Practiction
 --------------------------
-Bachelors in Cyber Security 🎓 | linktr.ee/nevsec | Pentester | Security Researcher 
-Talks about #informationsecurity and #cybersecurity* 
-🌍  I'm based in las vegas* 
-🖥️  See my portfolio at [My Documentation Page](http://nevsec.dev)* 
-🧠  I'm learning Cyber Security Skills* 
-🤝  I'm open to collaborating on anything security related* 
-⚡  Graduate with a Bachelors in Cyber Security, starting my MBA in the Fall of 2022.
+
+Bachelors in Cyber Security 🎓 | linktr.ee/nevsec | Pentester | Security Researcher Talks about #informationsecurity and #cybersecurity
+
+*   🌍  I'm based in las vegas
+*   🖥️  See my portfolio at [My Documentation Page](http://nevsec.dev)
+*   🧠  I'm learning Cyber Security Skills
+*   🤝  I'm open to collaborating on anything security related
+*   ⚡  Graduate with a Bachelors in Cyber Security, starting my MBA in the Fall of 2022.
 
 ### Skills
-
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="Photoshop" /></a></p>
-
+                    
 
 ### Socials
-
 <p align="left">
 <a href="https://www.github.com/nevsec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://nevsec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
