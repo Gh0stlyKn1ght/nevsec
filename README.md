@@ -1,4 +1,4 @@
-Hi 👋 My name is John Nevarez
+Hi 👋 My name is JC Nevarez
 =============================
 
 Cyber Security Practitioner
