@@ -4,7 +4,7 @@ Hi 👋 My name is JC Nevarez
 Cyber Security Practitioner
 --------------------------
 
-Bachelors in Cyber Security 🎓 | linktr.ee/nevsec | Pentester | Security Researcher Talks about #informationsecurity and #cybersecurity
+MBA Candidate @ Rutgers School of Business | FinTech | B.S in Cyber Security | OWASP Member
 
 *   🌍  I'm based in las vegas
 *   🖥️  See my portfolio at [My Documentation Page](http://nevsec.dev)
