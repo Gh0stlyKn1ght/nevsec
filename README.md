@@ -7,7 +7,7 @@ Cyber Security Practitioner
 MBA Candidate @ Rutgers School of Business | FinTech | B.S in Cyber Security | OWASP Member
 
 *   🌍  I'm based in las vegas
-*   🖥️  See my portfolio at [My Documentation Page](http://nevsec.dev)
+*   🖥️  See my portfolio at [My Documentation Page](http://nevarez.dev)
 *   🧠  I'm learning Cyber Security Skills
 *   🤝  I'm open to collaborating on anything security related
 *   ⚡  Graduate with a Bachelors in Cyber Security, starting my MBA in the Fall of 2022.
